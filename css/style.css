@@ -1,0 +1,312 @@
+
+
+button.delete-email-indi {
+
+
+
+    background-color: transparent;
+
+
+
+    border: none;
+
+
+
+    color: #d80505;
+
+
+
+    width: 100%;
+
+
+
+    outline: none;
+
+
+
+}
+
+button.delete-member-indi {
+
+
+
+    background-color: transparent;
+
+
+
+    border: none;
+
+
+
+    color: #d80505;
+
+
+
+    width: 100%;
+
+
+
+    outline: none;
+
+
+
+}
+
+
+
+a.trash-icon {
+
+
+
+  color: #d80505;
+
+
+
+}
+
+
+
+a.trash-icon:hover {
+
+
+
+  color: #fb0202;
+
+
+
+}
+
+
+
+.wau_boxlen{
+
+
+
+	width:100%;
+
+
+
+}
+
+
+
+.status-Failed{
+
+
+
+	color: red;
+
+
+
+}
+
+
+
+.status-Sent{
+
+
+
+	color: green;
+
+
+
+}
+
+
+
+#wau_role{
+
+
+
+height: 120px;
+
+
+
+}
+
+
+
+.wau_cont{
+
+
+
+  text-align:center;
+
+
+
+}
+
+
+
+#example_wrapper, #example1_wrapper ,#example4_wrapper{
+
+
+
+    background-color: #F9F9F9;
+
+
+
+    border: 2px solid #CECECE;
+
+
+
+    padding: 10px;
+
+
+
+    width: 97%;
+
+
+
+}
+
+
+
+#example2_wrapper{
+
+
+
+	 background-color: #F9F9F9;
+
+
+
+    border: 2px solid #CECECE;
+
+
+
+    padding: 10px;
+
+
+
+    width: 90%;
+
+
+
+    margin-top:13px;
+
+
+
+}
+
+
+
+#example3_wrapper{
+
+
+
+	background-color: #F9F9F9;
+
+
+
+    border: 2px solid #CECECE;
+
+
+
+    padding: 10px;
+
+
+
+}
+
+
+
+.role_wau_boxlen_csv{
+
+
+
+	width:179%;
+
+
+
+	margin-left: -10px;
+
+
+
+}
+
+
+
+textarea#wau_mailcontent, textarea#weu_show_area{
+
+
+
+	width:40%;
+
+
+
+	height: 150px;
+
+
+
+	padding: 15px;
+
+
+
+	margin-top: 10px;
+
+
+
+	border-radius:5px;
+
+
+
+	margin-bottom: 20px;
+
+
+
+	resize:none;
+
+
+
+}
+
+
+
+.wau_form{
+
+
+
+	width: 80%;
+
+
+
+	padding: 0px 30px;
+
+
+
+}
+
+
+
+/*Show table */
+
+
+#show_table th td {
+
+
+
+    padding: 8px;
+
+
+
+    text-align: left;
+
+
+
+    border-bottom: 1px solid #ddd;
+
+
+
+    background-color: #FFFFFF;
+
+
+
+}
+
+
+
+span.export-text{
+    vertical-align: text-top;
+    margin: -11px 22px 0 0;
+    display: inline-block;
+}
